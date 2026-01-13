@@ -20,7 +20,10 @@
   },
   "homepage": "https://github.com/hwalkermerrill/CSE-431-Web-Services#readme",
   "dependencies": {
+    "dotenv": "^17.2.3",
     "express": "^4.18.2",
+    "mongodb": "^7.0.0",
+    "mongoose": "^9.1.3",
     "save-dev": "^0.0.1-security"
   },
   "devDependencies": {

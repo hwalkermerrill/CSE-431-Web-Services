@@ -1,6 +1,12 @@
-var express = require('express');
-var app = express();
-var port = process.env.PORT || 3000;
+// Load environment variables (must be on top)
+const dotenv = require('dotenv');
+dotenv.config();
+
+// Other constants go here
+const express = require('express');
+const mongoose = require('./DataBase/connection');
+const app = express();
+const port = process.env.PORT || 3000;
 
 app.use('/', require('./routes/index'));
 
