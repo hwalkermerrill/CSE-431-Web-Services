@@ -2,7 +2,8 @@
 const dotenv = require('dotenv');
 dotenv.config();
 
-// Other constants go here
+// Constants go here
+const Joi = require('joi'); // Capitalize class objects
 const express = require('express');
 const mongoose = require('./DataBase/connection');
 const app = express();
