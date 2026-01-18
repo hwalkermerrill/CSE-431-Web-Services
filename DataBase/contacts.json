@@ -1,0 +1,23 @@
+{
+  "contact1": {
+    "firstName": "Frank",
+    "lastName": "Merrill",
+    "email": "lamplighter@tcon.net",
+    "favoriteColor": "white",
+    "birthday": "1950-02-14"
+  },
+  "contact2": {
+    "firstName": "Lexi",
+    "lastName": "Thoene",
+    "email": "athone@callcarpenter.net",
+    "favoriteColor": "red",
+    "birthday": "1952-11-01"
+  },
+  "contact3": {
+    "firstName": "Paul",
+    "lastName": "N'Ketchi",
+    "email": "mwangiman@gmail.com",
+    "favoriteColor": "Green",
+    "birthday": "1985-03-08"
+  }
+}
